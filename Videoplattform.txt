@@ -1,0 +1,11 @@
+<div class="container mt-4">
+<h1 class="text-center">Mini Videoplattform</h1>
+<div class="row">
+<div class="col-mt-4">
+<div class="card mb-4">
+<img src="video-thumbnail1.jpg" class="card-img-top"
+alt="Video Thumbnail 1">
+<div class="card-body">
+<h5 class="card-title">Video Titel 1</h5>
+<p class="card-text">Kurze Beschreibung des ersten
+Videos.</p>
